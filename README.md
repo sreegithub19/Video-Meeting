@@ -1,9 +1,10 @@
 # Video Meeting
 
 Versions used:
-Angular CLI: 14.1.2
-Node: 16.10.0
-Package Manager: yarn 1.22.19
+
+- Angular CLI: 14.1.2
+- Node: 16.10.0
+- Package Manager: yarn 1.22.19
 
 Commands to run:
 
