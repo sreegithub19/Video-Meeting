@@ -21,11 +21,6 @@ Demo:
 https://user-images.githubusercontent.com/55496113/222215213-5d76f153-d9aa-46b8-9fbf-13a32904190f.mp4
 
 
-
-### Website
-
-Try Video Meeting here [video.sebastienbiollo.com](https://video.sebastienbiollo.com)
-
 ### Features
 
 - Is 100% free and open-source
@@ -33,7 +28,7 @@ Try Video Meeting here [video.sebastienbiollo.com](https://video.sebastienbiollo
 - Unlimited users
 - Messaging chat and video streaming in real-time
 - Screen sharing to present documents, slides, and more
-- Everyting is peer-to-peer thanks to webrtc
+- Everyting is peer-to-peer due to the usage of webrtc
 
 ### Local setup
 
