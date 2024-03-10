@@ -10,7 +10,7 @@ var server = http.createServer(app)
 var io = require('socket.io')(server)
 
 app.use(cors({
-	origin: 'https://video-meeting-eight.vercel.app', // Replace with your Vercel deployment URL
+	origin: '*', // Replace with your Vercel deployment URL
 	methods: ['GET', 'POST'],
 	allowedHeaders: ['Content-Type', 'Authorization'],
 }))
