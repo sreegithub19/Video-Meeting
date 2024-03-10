@@ -9,7 +9,11 @@ var xss = require("xss")
 var server = http.createServer(app)
 var io = require('socket.io')(server)
 
-app.use(cors())
+app.use(cors({
+	origin: 'https://video-meeting-eight.vercel.app', // Replace with your Vercel deployment URL
+	methods: ['GET', 'POST'],
+	allowedHeaders: ['Content-Type', 'Authorization'],
+}))
 app.use(bodyParser.json())
 
 if(process.env.NODE_ENV==='production'){
