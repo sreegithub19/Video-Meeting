@@ -1,7 +1,7 @@
 {
   "short_name": "Video Meeting",
   "name": "Video Meeting",
-  "start_url": "https://video.sebastienbiollo.com",
+  "start_url": "https://video-meeting-2.vercel.app",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
